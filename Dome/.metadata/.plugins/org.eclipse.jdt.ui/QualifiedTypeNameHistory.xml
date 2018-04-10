@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="wechat.utils.ConstantUtil"/>
+<fullyQualifiedTypeName name="jdk.internal.dynalink.beans.StaticClass"/>
+<fullyQualifiedTypeName name="wechat.http.impl.PrepayIdRequestHandler"/>
+<fullyQualifiedTypeName name="wechat.utils.WXUtil"/>
+<fullyQualifiedTypeName name="wechat.utils.OrderUtils"/>
+<fullyQualifiedTypeName name="com.sun.javafx.collections.MappingChange.Map"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="wechat.http.bean.OrderResult"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
